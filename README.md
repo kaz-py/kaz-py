@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science Student** and a **Junior Flutter Developer** with a **growth mindset**. <br> I am deeply committed to **lifelong learning**, constantly pushing myself to master new technologies and improve my workflow.
+I am a **Junior Flutter Developer** with a **growth mindset**. <br> I am deeply committed to **lifelong learning**, constantly pushing myself to master new technologies and improve my workflow.
 
 <br>
 
