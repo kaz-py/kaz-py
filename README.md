@@ -20,7 +20,7 @@ I am a **Junior Flutter Developer** with a **growth mindset**. <br> I am deeply 
 <br>
 🐍 **Scripting:** Crafting efficient solutions using **Python**
 <br>
-🐧 **Linux Ecosystem:** Currently rocking **Fedora** with **Hyprland** and **KDE Plasma**
+🐧 **Linux Ecosystem:** Currently rocking **Arch** with **Hyprland**
 <br>
 🌱 **Daily Goal:** Learning something new every day to become a better Software Developer
 
